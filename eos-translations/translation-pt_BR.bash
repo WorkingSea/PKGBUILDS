@@ -345,4 +345,7 @@ _tr_add2 ins_cust_text2              "O arquivo obtido irá substituir ~/user_co
 _tr_add2 ins_cust_text3              "Isso é mais útil para instalações <b>online</b>"
 
 # 2023-Mar-29
-_tr_add2 ins_no_connection           "Nota: Conexão com a internet não está disponível, alguns botões estarão escondidos ou não funcionarão"
+_tr_add2 ins_no_connection           "Nota: Conexão com a internet não está disponível, alguns botões estarão escondidos ou não funcionarão."
+
+# 2023-Aug-25
+_tr_add2 ins_pmtip2                  "Partitionmanager permite que você examine e gerencie a estrutura e partições do disco"
